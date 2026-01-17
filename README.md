@@ -1,6 +1,6 @@
 💻 Sobre o Projeto
 
-O PDV CANVI é um sistema web full-stack criado para automatizar o fluxo de vendas e a gestão operacional de um quiosque/estabelecimento.
+O PDV da ilha.tech é um sistema web full-stack criado para automatizar o fluxo de vendas e a gestão operacional de um quiosque/estabelecimento com foco no pequeno cliente que precisa de um sistema para gerenciar seu negócio de forma simples e prática no seu dia a dia.
 
 O projeto foi desenvolvido do zero em PHP 8, sem frameworks, utilizando PDO com boas práticas de segurança e uma organização inspirada em MVC (separação de Models, páginas e APIs internas).
 A aplicação roda bem em hospedagem compartilhada (cPanel/HostGator) e foi pensada para ser simples de manter e evoluir.
